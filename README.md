@@ -6,7 +6,7 @@
 <br/>
 
 <!-- GIF Hello World -->
-<img src="./assets/hello-world.gif" alt="Hello World" width="420"/>
+<img src="./assets/hello-world.gif" alt="Hello World" width="100%"/>
 
 <br/>
 
