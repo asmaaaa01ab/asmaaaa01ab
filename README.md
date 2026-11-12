@@ -1,10 +1,6 @@
 <!-- Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0A6CFF,100:7A3FF2&text=Asmae%20Abakouy&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Software%20Engineering%20Student%20%7C%20Backend%20%C2%B7%20Cloud%20%C2%B7%20Networks&descSize=18&descAlignY=58" alt="Asmae Abakouy banner" width="100%"/>
-
-<br/>
-
 <!-- GIF Hello World -->
 <img src="./assets/hello-world.gif" alt="Hello World" width="100%"/>
 
@@ -12,7 +8,7 @@
 
 <a href="https://www.linkedin.com/in/asmaeabakouy"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/asmaaaa01ab"><img src="https://img.shields.io/badge/GitHub-asmaaaa01ab-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<img src="https://img.shields.io/badge/Open%20to-PFE%20Internship%20%C2%B7%20Feb%202027-0A6CFF?style=for-the-badge" alt="Open to PFE internship, February 2027"/>
+<img src="https://img.shields.io/badge/Open%20to-PFE%20Internship%20%C2%B7%20Feb%202027-1FA8B8?style=for-the-badge" alt="Open to PFE internship, February 2027"/>
 
 <br/><br/>
 
@@ -217,6 +213,6 @@ Open to technical discussions, collaborations and internship opportunities.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0A6CFF,100:7A3FF2&section=footer" alt="footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0A1616,50:0F5C66,100:2EC4D6&section=footer" alt="footer" width="100%"/>
 
 </div>
