@@ -5,6 +5,11 @@
 
 <br/>
 
+<!-- GIF Hello World -->
+<img src="./assets/hello-world.gif" alt="Hello World" width="420"/>
+
+<br/>
+
 <a href="https://www.linkedin.com/in/asmaeabakouy"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/asmaaaa01ab"><img src="https://img.shields.io/badge/GitHub-asmaaaa01ab-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <img src="https://img.shields.io/badge/Open%20to-PFE%20Internship%20%C2%B7%20Feb%202027-0A6CFF?style=for-the-badge" alt="Open to PFE internship, February 2027"/>
@@ -175,8 +180,17 @@ from backend services to cloud infrastructure and networks.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=asmaaaa01ab&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaaaa01ab&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+<!-- Généré par .github/workflows/metrics.yml -->
+<img src="./assets/metrics.svg" alt="GitHub metrics" width="100%"/>
+
+<br/><br/>
+
+<!-- Généré par .github/workflows/snake.yml (branche "output") -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmaaaa01ab/asmaaaa01ab/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asmaaaa01ab/asmaaaa01ab/output/github-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/asmaaaa01ab/asmaaaa01ab/output/github-snake.svg" width="100%"/>
+</picture>
 
 </div>
 
