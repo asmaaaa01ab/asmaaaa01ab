@@ -18,8 +18,16 @@ jobs:
           filename: assets/metrics.svg
           config_timezone: Africa/Casablanca
 
-          # Aucune section de base (plus de Activity, Community, Repositories)
-          base: ""
+          # Section minimale (obligatoire), masquée juste après
+          base: header
+          extras_js: |
+            document.querySelector("header")?.remove()
+
+          # Activité sous forme de graphiques (commits par jour et par heure)
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 30
+          plugin_habits_charts: yes
 
           # Langages les plus utilisés
           plugin_languages: yes
@@ -27,6 +35,4 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_limit: 8
 
-          # Calendrier de contributions en 3D
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          config_order: habits, languages
